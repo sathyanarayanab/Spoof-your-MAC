@@ -30,6 +30,6 @@ This python tool is very simple and basic. This has very few flags.
 - To randomize the MAC and Spoof ` python3 spoofer.py -i [interface] -r `
 - To use MAC from saved profile ` python3 spoofer.py -i [interface] -p [profile_name]`
 ## Note
-This tool works only on Linux in which python has been installed. It works both in python2 and python3.
+This tool works only on Linux in which python has been installed. It works both in python2 and python3. Open and edit `profiles.csv` and configure as required or create a profile while spoofing the MAC.
 ## Additional info
 I know this is very basic tool yet managed to implement randomizing MAC and profiling MAC and I'm new to coding. So I am very open to learn from others. Please correct me if I'm wrong or help me to use the variables or functions efficently without any hesitation. Happy to learn always :)
